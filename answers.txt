@@ -1,2 +1,5 @@
+
 why might be considering using git ?
-- To colobrate with other in the same  projects. 
+- To colobrate with other in the same  projects.
+Q2: What field could data science be applied to? Give and Example and how it might help
+- It applies to Machine learning, AI to analyse data and manage them. 
