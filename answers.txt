@@ -1,0 +1,2 @@
+why might be considering using git ?
+- To colobrate with other in the same  projects. 
