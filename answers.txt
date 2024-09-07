@@ -2,4 +2,6 @@
 why might be considering using git ?
 - To colobrate with other in the same  projects.
 Q2: What field could data science be applied to? Give and Example and how it might help
-- It applies to Machine learning, AI to analyse data and manage them. 
+- It applies to Machine learning, AI to analyse data and manage them.
+Q3: What is the difference between merging and rebasing?
+- Key Difference: Merging maintains the branch structure with a merge commit, while rebasing makes the history look like all changes happened in sequence, eliminating the need for a merge commit.
